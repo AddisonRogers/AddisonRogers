@@ -1,2 +1,2 @@
 Learning C#, Golang and Javascript (Svelte Framework).
-Proficent with C# and WPF 
+Proficent with C# + WPF and Golang 
