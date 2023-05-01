@@ -1,1 +1,2 @@
-Learning C#, Golang, Javascript (Svelte) and Rust.
+Learning C# and Golang. (like 90% C# and 10% Go)
+Open to job offers. 
