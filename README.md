@@ -1,2 +1,2 @@
-Learning C# and Zig. (like 90% C# and 10% Zig)
+Learning C# and Svelte. (like 90% C# and 10% Svelte)
 Open to job offers. 
